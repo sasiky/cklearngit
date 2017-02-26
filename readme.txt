@@ -5,5 +5,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick. 
 Just gitignore global.
-Creating a new branch is quick & simple.
-Add master branch more line.
+Creating a new branch is quick and simple.
