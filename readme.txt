@@ -6,3 +6,4 @@ Git tracks changes of files.
 Creating a new branch is quick. 
 Just gitignore global.
 Creating a new branch is quick & simple.
+Add master branch more line.
